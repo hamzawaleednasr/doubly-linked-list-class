@@ -1,0 +1,6 @@
+.vscode/
+x64/
+*.exe
+*.vcxproj
+*.filters
+*.user
